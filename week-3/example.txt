@@ -1,0 +1,2 @@
+Hello, this is a simple text file.
+Here reading a file and then processing its content using the callbacks.
